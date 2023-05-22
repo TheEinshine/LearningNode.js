@@ -1,0 +1,22 @@
+{
+  "name": "newfold",
+  "version": "1.0.0",
+  "description": "Node course learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node get",
+    "dev":"nodemon index2"
+  },
+  "keywords": [
+    "Abhi",
+    "P"
+  ],
+  "author": "Abhi p",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
